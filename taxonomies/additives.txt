@@ -10419,6 +10419,7 @@ es:E422, Glicerol
 et:E422, Glütserool
 fi:E422, Glyseroli
 fr:E422, Glycérol, Trihydroxypropane, glycérine, propan-1\,2\,3-triol, 1\,2\,3-propanetriol
+he:E422, גליצרול
 hu:E422, Glycerol, Glicerin
 it:E422, Glicerolo
 lt:E422, Glicerolis
